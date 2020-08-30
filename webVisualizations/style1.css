@@ -1,0 +1,32 @@
+.container {
+    width: 100%;
+    margin: 0 auto;
+  }
+  body{
+    margin: 0;
+    background-color:whitesmoke;
+    font-family: sans-serif;
+    font-weight: 300;
+  }
+  .box{
+    background-color:white;
+    pad: 400px;
+    width:100%;
+    height:100%;
+    margin-top: 50px;
+  }
+  .navbar-nav {
+    margin-left: 900px;
+  }
+  .navbar-brand{
+    background-color:teal;
+  }
+  img {
+    width:100%;
+    height:100%
+  }
+  h1{
+    color:teal
+  }
+
+  
